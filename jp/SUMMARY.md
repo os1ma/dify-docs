@@ -148,7 +148,7 @@
   * [DifyチャットボットをWixサイトに統合する方法](learn-more/use-cases/how-to-integrate-dify-chatbot-to-your-wix-website.md)
 * [拡張読書](learn-more/extended-reading/README.md)
   * [LLMOpsとは何ですか？](learn-more/extended-reading/what-is-llmops.md)
-  * [検索強化生成（RAG）](learn-more/extended-reading/retrieval-augment/README.md)
+  * [検索拡張生成（RAG）](learn-more/extended-reading/retrieval-augment/README.md)
     * [ハイブリッド検索](learn-more/extended-reading/retrieval-augment/hybrid-search.md)
     * [Rerank](learn-more/extended-reading/retrieval-augment/rerank.md)
     * [リトリーバルモード](learn-more/extended-reading/retrieval-augment/retrieval.md)
